@@ -1,0 +1,2 @@
+List of referrences : 
+1: https://www.linkedin.com/pulse/pep-8-pythons-style-guide-fabrizio-villa-santa-tvjpc#:~:text=Consistency%3A%20Hand%20in%20hand%20with,with%20the%20broader%20Python%20community.
